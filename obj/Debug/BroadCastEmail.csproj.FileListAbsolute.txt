@@ -1,0 +1,8 @@
+C:\Rafael\GitHub\BroadCastEmail\BroadCastEmail\BroadCastEmail\bin\Debug\BroadCastEmail.exe.config
+C:\Rafael\GitHub\BroadCastEmail\BroadCastEmail\BroadCastEmail\bin\Debug\BroadCastEmail.exe
+C:\Rafael\GitHub\BroadCastEmail\BroadCastEmail\BroadCastEmail\bin\Debug\BroadCastEmail.pdb
+C:\Rafael\GitHub\BroadCastEmail\BroadCastEmail\BroadCastEmail\bin\Debug\Newtonsoft.Json.dll
+C:\Rafael\GitHub\BroadCastEmail\BroadCastEmail\BroadCastEmail\obj\Debug\BroadCastEmail.csprojResolveAssemblyReference.cache
+C:\Rafael\GitHub\BroadCastEmail\BroadCastEmail\BroadCastEmail\obj\Debug\BroadCastEmail.csproj.CoreCompileInputs.cache
+C:\Rafael\GitHub\BroadCastEmail\BroadCastEmail\BroadCastEmail\obj\Debug\BroadCastEmail.exe
+C:\Rafael\GitHub\BroadCastEmail\BroadCastEmail\BroadCastEmail\obj\Debug\BroadCastEmail.pdb
